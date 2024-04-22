@@ -1,5 +1,10 @@
 # University-Project-Management-System
 
+## Why did I make this?
+This was for my final year project at @Birkbeck. It's in my own repo for archival purpuses
+
+## What is it?
+
 This is a CRUD web application that mainly uses Filament to dynamically manage student projects (dissertations) for HE
 courses (i.e University's/Colleges).
 
